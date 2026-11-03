@@ -100,7 +100,7 @@ music-education interfaces.
 ## Related projects
 
 Other projects in this portfolio are listed on the
-[portfolio profile](https://github.com/jesusrodriguez1990z).
+[portfolio profile](https://github.com/DanUrtnowski).
 
 ## Licensing
 
